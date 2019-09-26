@@ -34,3 +34,21 @@ D:\Users\Andreas\OneDrive - Aarhus universitet\IHA\4. Semester\SWT\U39L07 - Fake
 D:\Users\Andreas\OneDrive - Aarhus universitet\IHA\4. Semester\SWT\U39L07 - Fakes og Isolation Frameworks\Exercise_ECS\ECS.Test.Unit\obj\Debug\ECS.Test.Unit.csproj.CopyComplete
 D:\Users\Andreas\OneDrive - Aarhus universitet\IHA\4. Semester\SWT\U39L07 - Fakes og Isolation Frameworks\Exercise_ECS\ECS.Test.Unit\obj\Debug\ECS.Test.Unit.dll
 D:\Users\Andreas\OneDrive - Aarhus universitet\IHA\4. Semester\SWT\U39L07 - Fakes og Isolation Frameworks\Exercise_ECS\ECS.Test.Unit\obj\Debug\ECS.Test.Unit.pdb
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\ECS.Test.Unit.dll
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\ECS.Test.Unit.pdb
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\Castle.Core.dll
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\ECS.dll
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\NSubstitute.dll
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\ECS.pdb
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\Castle.Core.xml
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\NSubstitute.xml
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\nunit.framework.pdb
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\obj\Debug\ECS.Test.Unit.csprojAssemblyReference.cache
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\obj\Debug\ECS.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\obj\Debug\ECS.Test.Unit.csproj.CopyComplete
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\obj\Debug\ECS.Test.Unit.dll
+C:\Users\andre\Onedrive - Aarhus universitet\IHA\Git\I4SWT_Exercise08\Exercise_ECS\ECS.Test.Unit\obj\Debug\ECS.Test.Unit.pdb
